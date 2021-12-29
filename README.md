@@ -5,3 +5,12 @@ Schotex Ecosystem will use EVM compatible blockchain and solidity-based smart co
 
 Our mission is to build a strong ecosystem; that embrace diverse innovative ideas to deliver different Dapps, increasing crypto adoption globally. Generates community driven funding, to support Angel-centric charities around the world. 
 Our plans are for long-term development of the Schotex Ecosystem, which will evolve into a worthwhile investment that extends beyond fads. 
+
+INFORMATION: 
+Web: https://schotex.com
+Twitter: https://twitter.com/schotexofficial
+Telegram Group: https://t.me/schotex
+Announcement Channel: https://t.me/schotannouncement
+Medium: https://schotex.medium.com/
+Reddit: https://www.reddit.com/user/schotex
+
