@@ -8,7 +8,7 @@ Our plans are for long-term development of the Schotex Ecosystem, which will evo
 
 INFORMATION: 
 Web: https://schotex.com
-Twitter: https://twitter.com/schotexofficial
+Twitter: https://twitter.com/SchotexToken
 Telegram Group: https://t.me/schotex
 Announcement Channel: https://t.me/schotannouncement
 Medium: https://schotex.medium.com/
